@@ -10,6 +10,9 @@ namespace Primes
     {
         static void Main(string[] args)
         {
+            // Show the main menu.
+            Screens.MainScreen.Show();
+
 #if DEBUG
             // Keep the console open to show results.
             Console.WriteLine("Press any key to exit.");
