@@ -1,2 +1,6 @@
 c-sharp/Primes/bin/
 c-sharp/Primes/obj/
+javascript/.project
+javascript/.settings/
+javascript/node_modules/
+javascript/.externalToolBuilders/

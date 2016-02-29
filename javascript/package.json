@@ -1,0 +1,29 @@
+{
+  "name": "primes",
+  "version": "1.0.0",
+  "description": "A JavaScript library for finding prime numbers.",
+  "main": "dist/primes.js",
+  "scripts": {
+    "test": "test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davecheesefish/Primes.git"
+  },
+  "keywords": [
+    "math",
+    "mathematics",
+    "primes",
+    "prime",
+    "numbers"
+  ],
+  "author": "David Prior (davecheesefish.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davecheesefish/Primes/issues"
+  },
+  "homepage": "https://github.com/davecheesefish/Primes#readme",
+  "devDependencies": {
+    "uglify-js": "^2.6.2"
+  }
+}
