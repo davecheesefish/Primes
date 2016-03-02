@@ -1,9 +1,10 @@
 # Primes: Brainfuck
 **Note:** Due to the name of the language, this section contains some profanity.
+
 A console application for finding prime numbers, written in the esoteric programming language Brainfuck. The program will start at 2 and continue until it reaches the maximum value the environment will allow (255 with 8-bit memory cells).
 
 ## About the Language: Brainfuck
-Brainfuck is a minimalist esoteric programming language, which operates on a 1-dimensional "tape" of memory cells. A pointer, initially pointing to the first cell, dictates which memory cell any operations will affect.
+Brainfuck is an intentionally difficult-to-use minimalist esoteric programming language, which operates on a 1-dimensional "tape" of memory cells. A pointer, initially pointing to the first cell, dictates which memory cell any operations will affect.
 
 There are only 8 commands in Brainfuck:
 - `+` Increment the pointed-at memory cell's value by 1.
@@ -20,7 +21,7 @@ All other characters are considered comments and are ignored.
 [Read more about Brainfuck on the Esoteric Programming Languages Wiki](https://esolangs.org/wiki/Brainfuck).
 
 ## Environmental Assumptions
-This program works assuming the following environmental conditions:
+This program works assuming the following environmental conditions are met:
 - Memory cells are 8 bits in size.
 - All values are unsigned. No negative numbers.
 
