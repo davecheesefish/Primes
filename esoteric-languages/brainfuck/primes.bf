@@ -12,14 +12,13 @@
 Numbers indicate the memory cell each line leaves the pointer at
 
 
+Set prime flag to 1
++  0
 
 Set candidate to 2
 >>++  2
 
-Set prime flag to 1
-<<+  0
-
->>  2
+Begin candidate checking loop
 [
 
     Copy candidate to divisor
@@ -144,5 +143,4 @@ Set prime flag to 1
 
     If the candidate reaches its max value and loops to 0 the program will end
 ]
-
 
