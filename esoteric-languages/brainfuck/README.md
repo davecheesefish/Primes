@@ -1,5 +1,4 @@
 # Primes: Brainfuck
-**Note:** Due to the name of the language, this section contains some profanity.
 
 A console application for finding prime numbers, written in the esoteric programming language Brainfuck. The program will start at 2 and continue until it reaches the maximum value the environment will allow (255 with 8-bit memory cells).
 
