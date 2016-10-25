@@ -1,5 +1,6 @@
 # Primes: Human Resource Machine
 A prime number calculator, built in the Tomorrow Corporation game *[Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)*.
+
 ![Screenshot](./screenshots/2016-10-25.png?raw=true)
 Human Resource Machine is a fun little game about instructing an office worker to complete various computational tasks using a basic set of instructions.
 
