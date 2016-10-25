@@ -5,16 +5,17 @@ Some implementations may be more fully-featured than others, but they should at 
 
 ## Current Implementations
 ### Mainstream Languages
-Generators written in languages that are used for everyday programming.
+Prime calculators written in languages that are used for everyday programming.
 - [C++](./c-plus-plus/)
 - [C#](./c-sharp/)
 - [JavaScript](./javascript/)
 - [Lua](./lua/)
 
 ### Esoteric Languages
-Generators written in languages created to serve no real useful purpose.
+Prime calculators written in languages that were created to serve no real useful purpose.
 - [Brainfuck](./esoteric-languages/brainfuck/)
 
 ### Games
-Generators created by (ab)using the mechanics of an existing video game.
+Prime calculators created by (ab)using the mechanics of an existing video game.
+- [Human Resource Machine](./games/human-resource-machine/)
 - [Minecraft](./games/minecraft/) (8-bit generator using vanilla redstone)
