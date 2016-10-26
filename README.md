@@ -8,6 +8,7 @@ Some implementations may be more fully-featured than others, but they should at 
 Prime calculators written in languages that are used for everyday programming.
 - [C++](./c-plus-plus/)
 - [C#](./c-sharp/)
+- [Haskell](./haskell/)
 - [JavaScript](./javascript/)
 - [Lua](./lua/)
 
